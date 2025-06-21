@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-[![hirwatans GitHub stats](https://github-readme-stats.vercel.app/api?username=melswonder&theme=vue-dark&show_icons=true)](https://github.com/mo-ri-regen/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melswonder&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
+[![hirwatans GitHub stats](https://github-readme-stats.vercel.app/api?username=melswonder&theme=vue-dark&show_icons=true)](https://github.com/melswonder/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melswonder&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/melswonder/github-readme-stats)
 
 [![hirwatan's 42 stats](https://badge.mediaplus.ma/colorfulwaves/hirwatan)](https://github.com/oakoudad/badge42)
 
