@@ -2,7 +2,10 @@
 
 [![hirwatan's 42 stats](https://badge.mediaplus.ma/colorfulwaves/hirwatan)](https://github.com/oakoudad/badge42)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melswonder&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/melswonder/github-readme-stats)
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
+
 
 <!--
 **melswonder/melswonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
