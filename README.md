@@ -4,7 +4,7 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,React)](https://skillicons.dev)
 
 
 <!--
