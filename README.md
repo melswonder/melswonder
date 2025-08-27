@@ -1,10 +1,6 @@
-## Hi there 👋
-
-[![hirwatan's 42 stats](https://badge.mediaplus.ma/colorfulwaves/hirwatan)](https://github.com/oakoudad/badge42)
-
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,c,cpp,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,c,cpp)](https://skillicons.dev)
 
 
 <!--
