@@ -1,6 +1,6 @@
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=linux,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,github,c,cpp,ts,python)](https://skillicons.dev)
 
 
 <!--
